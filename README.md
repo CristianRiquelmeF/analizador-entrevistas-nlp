@@ -168,13 +168,15 @@ La visualización está pensada como una salida rápida para presentación y exp
 
 ## 5. ¿Cómo utilizarlo?
 
-### Paso 1. Abrir Google Colab
+### Paso 1. Google Colab
 
-Crear un notebook nuevo en Google Colab.
+Abrir el notebook mediante el botón "Abrir en Google Colab" que aparece al inicio del README. 
+
+No requiere una instalación local de Python
 
 ### Paso 2. Ejecutar el script
 
-Pegar el contenido del archivo Python en una celda de Colab y ejecutarlo.
+Ejecutar todas las celdas.
 
 El script instala el modelo lingüístico de spaCy automáticamente:
 
@@ -184,13 +186,11 @@ El script instala el modelo lingüístico de spaCy automáticamente:
 
 ### Paso 3. Seleccionar las entrevistas
 
-El notebook solicitará la carga de archivos `.txt`:
+Cargar los .txt:
 
 ```text
 Selecciona tus archivos .txt:
 ```
-
-Se recomienda utilizar archivos codificados en **UTF-8**.
 
 ### Paso 4. Revisar los resultados
 
