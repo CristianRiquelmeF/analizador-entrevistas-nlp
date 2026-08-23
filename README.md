@@ -343,7 +343,7 @@ Esto permite utilizar la tecnología como una herramienta de apoyo para **ordena
 
 ---
 
-## 11. Estructura sugerida del repositorio
+## 11. Estructura del repositorio
 
 ```text
 analizador-entrevistas-nlp/
