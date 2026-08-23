@@ -1,8 +1,10 @@
 # Analizador Exploratorio de Entrevistas: NLP + Frecuencia + TF-IDF
 
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianRiquelmeF/analizador-entrevistas-nlp/blob/main/notebooks/Analizador_Entrevistas_NLP.ipynb)
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MLS3ixyeURe-mJOYyiP7RYwuY5IC1lBf?authuser=3#scrollTo=_HFVCNkFz4gO)
 
+
+https://colab.research.google.com/drive/1MLS3ixyeURe-mJOYyiP7RYwuY5IC1lBf?authuser=3#scrollTo=_HFVCNkFz4gO
 
 Herramienta breve y reproducible para realizar una **exploración asistida por computador de entrevistas cualitativas en formato `.txt`**. El proyecto combina procesamiento de lenguaje natural (NLP), análisis de frecuencia y TF-IDF para identificar conceptos recurrentes, observar su presencia entre entrevistas y generar una primera matriz de resultados para apoyar la interpretación cualitativa.
 
