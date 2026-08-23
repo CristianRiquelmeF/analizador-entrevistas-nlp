@@ -349,13 +349,15 @@ Esto permite utilizar la tecnología como una herramienta de apoyo para **ordena
 analizador-entrevistas-nlp/
 │
 ├── README.md
-├── Analizador_Entrevistas_NLP_Optimizado_Colab.py
-├── ejemplo/
-│   └── entrevistas_demo.txt
-├── resultados/
-│   └── Matriz_Sociologica_Resultados.xlsx
-└── docs/
-    └── metodologia.md
+│
+├── notebooks/
+│   └── Analizador_Entrevistas_NLP.ipynb
+│
+├── src/
+│   └── Analizador_Entrevistas_NLP_Optimizado_Colab.py
+│
+└── examples/
+    └── Matriz_Sociologica_Resultados_ejemplo.xlsx
 ```
 
 Se recomienda **no publicar transcripciones reales que contengan información identificable o sensible**. Para GitHub y el portafolio, es preferible utilizar textos anonimizados, sintéticos o un corpus público con licencia compatible.
