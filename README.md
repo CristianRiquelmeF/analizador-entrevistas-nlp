@@ -172,13 +172,13 @@ La visualización está pensada como una salida rápida para presentación y exp
 
 Abrir el notebook mediante el botón "Abrir en Google Colab" que aparece al inicio del README. 
 
-No requiere una instalación local de Python
+No requiere una instalación local de Python.
 
 ### Paso 2. Ejecutar el script
 
 Ejecutar todas las celdas.
 
-El script instala el modelo lingüístico de spaCy automáticamente:
+El script instala el modelo lingüístico de spaCy automáticamente pero se debe reiniciar el kernel para limpiar memoria:
 
 ```python
 !python -m spacy download es_core_news_sm -q
@@ -186,7 +186,7 @@ El script instala el modelo lingüístico de spaCy automáticamente:
 
 ### Paso 3. Seleccionar las entrevistas
 
-Cargar los .txt:
+Cargar los .txt en el espacio que indica al final de la celda:
 
 ```text
 Selecciona tus archivos .txt:
