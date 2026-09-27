@@ -376,5 +376,5 @@ Este proyecto puede adaptarse para fines académicos, metodológicos y demostrat
 
 ## Autor
 
-**Cristian Riquelme Fernández**  
-Sociólogo · Analista de Datos · Investigación Aplicada · NLP
+Cristian Riquelme — [GitHub: CristianRiquelmeF](https://github.com/CristianRiquelmeF)
+Sociólogo y Analista de Datos/BI.
